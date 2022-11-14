@@ -1,5 +1,5 @@
 # Data
-This folder contains the raw and manipulated data sets (.csv files) along with a Jupyter notebook with instructions and code to detail the data manipulation process.
+This folder contains the raw and manipulated data sets (.csv files), along with a Jupyter notebook with instructions and code to detail the data manipulation process.
 
 - **PROVENANCE** (where did this data/code come from?)
 - **PURPOSE** (what/who is this data/code for?)
