@@ -8,3 +8,8 @@ The repository contains one python notebook with a manipulated data set and mark
 1. PROVENANCE (where did this data/code come from?)
 2. PURPOSE (what/who is this data/code for?)
 3. POTENTIAL (why was this repo created and what might people do with it?)
+
+Key Points in **Composition Strategy**: 
+1. headers
+2. formatting (bold/italics)
+3. hyperlinks
