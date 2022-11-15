@@ -1,7 +1,0 @@
-# Instructions
-
-This folder contains the python notebooks used to learn Python though Anaconda Navigator. 
-
-- **PROVENANCE**: these notebooks came from the data literacy tutorials and modules curated by the wonderful librarians of Davis Library. 
-- **PURPOSE**: these files serve to walk beginner coders through the data acquisition and manipulation process. It details Anaconda Navigator, Jupyter Labs, and Pandas notebooks. Readers should be confortable with creating their own DataFrame and filing through large data sets. 
-- **POTENTIAL**: this is the intro module for people who want to learn code. It lays out a basic introduction, a command directory, and a step-by-step guide to setting up certain softwares. Once installed, individuals can continue referencing the command directory and code personal projects to their own interests. 
