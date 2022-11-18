@@ -20,7 +20,7 @@ I want to make this data **_navigable, accessible, and reproducible_** for as ma
 
 
 ## Data Visualizations
-![Bar Chart Race](https://public.flourish.studio/visualisation/11871254/)
+[Bar Chart Race](https://public.flourish.studio/visualisation/11871254/)
 
 ![Percent Change Bar Graph](https://user-images.githubusercontent.com/118193207/202773013-ee6c139c-324b-422d-9c76-49671cc6bbdd.png)
 
