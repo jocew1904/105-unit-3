@@ -19,6 +19,10 @@ The project is designed to serve researchers, students, policymakers, economists
 I want to make this data **_navigable, accessible, and reproducible_** for as many people as possible. If you face any challenges related to these objectives, please contact me at **jocew@unc.edu**. 
 
 
+## Data Visualizations
+[Bar Chart Race](https://public.flourish.studio/visualisation/11871254/)
+[Percent Change Bar Graph](https://user-images.githubusercontent.com/118193207/202773013-ee6c139c-324b-422d-9c76-49671cc6bbdd.png)
+
 
 ## Acknowledgements 
 Thank you to the [Davis Library Research Hub](https://library.unc.edu/data/) for their useful tutorials, guideposts, and on-site support. These resources were critical to the creation of this repository.
