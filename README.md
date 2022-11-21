@@ -28,7 +28,7 @@ The graphs depict changes in Scandanavian real GDP per capita over time. The **B
 [Bar Chart Race](https://public.flourish.studio/visualisation/11871254/)
 
 The **Percent Change Bar Graph** illustrates the percent change in rGDP per capita over that time. This helps viewers understand the nature of economic growth in Scandanavia, along with comparing them to each other and other nations. 
-![Percent Change Bar Graph](https://user-images.githubusercontent.com/118193207/202773013-ee6c139c-324b-422d-9c76-49671cc6bbdd.png)
+![Percent Change Bar Graph](https://raw.githubusercontent.com/jocew1904/Scandanavian-Economies/main/Visualizations/QIq9e-economic-growth-in-scandinavia%20(1).png)
 
 
 ## Acknowledgements 
