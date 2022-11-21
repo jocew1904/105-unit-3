@@ -12,6 +12,9 @@ It helps depict trends in **Scandanavian economies**. Tons of economic data are 
 This repository contains **one python notebook** with a manipulated data set and markdown instructions, a **.csv file** with GDP per capita data across several nations, and a **.csv file** with the final manipulated data of GDP per capita and perent change in Scandanavian nations. See **Data** folder to access the files.
 
 
+## How can this Data be Used?
+This repository was created since many people, both economists and students, praise the economic growth and overall wellbeing of Scandanavian nations. It can be used to contribute to research about the state of Scandanavian economies and which nation's economic policies to adopt in the US.
+
 
 ## Who is this Repository For?
 The project is designed to serve researchers, students, policymakers, economists, professors, or **_anyone_** with economic curiosities that might lack the understanding, time, or expertise to process loads of economic data themselves.
